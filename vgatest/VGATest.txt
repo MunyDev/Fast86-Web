@@ -1,0 +1,5 @@
+WebGL 2 is an important web api and can be used by advanced users.
+
+WebGL 2 FrameBuffers are specifically of interest because they can render text and we can modify individual pixels with glTexSubImage calls
+
+Text and Acceleration, then pixels.(PIXELS will overlay 3D Acceleration)
